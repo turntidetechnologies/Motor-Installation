@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5b3z3IaWXQJ" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Turntide Motor Installation</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">This module proivdes details on Turntide Motor Installation</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Turntide_Motor_Installation_ORG">
+    <organization identifier="Turntide_Motor_Installation_ORG">
+      <title>Turntide Motor Installation</title>
+      <item identifier="Turntide_Motor_Instalaltion_SCO" isvisible="true" identifierref="__5b3z3IaWXQJ_RES">
+        <title>Turntide Motor Installation</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5b3z3IaWXQJ_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6QuIEDkc77g.png" />
+      <file href="mobile/6KOp8aIbE0G.png" />
+      <file href="mobile/6MU2pPsBYn2.png" />
+      <file href="mobile/6X9aNG3hwAG.png" />
+      <file href="mobile/6hVurTL5cCp.png" />
+      <file href="mobile/6A7OcR9bcpo.png" />
+      <file href="story_content/6FurG6Nlg0C_44100_48_0.mp3" />
+      <file href="story_content/5iR1oZQHVsN_44100_48_0.mp3" />
+      <file href="mobile/5paP7JoyRcK.png" />
+      <file href="mobile/69bNJq7fZkP_80.png" />
+      <file href="mobile/6Bq3hmzS6R2.png" />
+      <file href="mobile/5lVPb7pEdlh.png" />
+      <file href="mobile/5bKkcH3moOf.png" />
+      <file href="mobile/6UPfXz1Kppc.png" />
+      <file href="story_content/687d3fAUEcQ_44100_48_0.mp3" />
+      <file href="mobile/6pCvDouKNuM.png" />
+      <file href="story_content/TwentyPercent_808080_D9D9D9.jpg" />
+      <file href="story_content/DashedDownwardDiagonal_DDD9C3_404040.jpg" />
+      <file href="mobile/6HcQFpRiT0m.png" />
+      <file href="mobile/5tRvpgzlqSN.png" />
+      <file href="mobile/5dy8OlEJbZ1.png" />
+      <file href="story_content/6cth0dsU1Nz_44100_48_0.mp3" />
+      <file href="mobile/6Z3d2Z4359g.png" />
+      <file href="story_content/683BvncseuN_44100_48_0.mp3" />
+      <file href="mobile/6eeepNHnCuU_B10_C20_P_615_122_580_678.png" />
+      <file href="mobile/6eeepNHnCuU_B10_C20_P_686_362_388_383.png" />
+      <file href="mobile/6clp3Lbmm9F.png" />
+      <file href="mobile/64eANbcGZHh_B10_C20.png" />
+      <file href="mobile/65FOkH0p8dn.png" />
+      <file href="story_content/6EmFgyvNMkB_44100_48_0.mp3" />
+      <file href="mobile/67OR9BbUZtd.png" />
+      <file href="story_content/61oAJY6tK4I_44100_48_0.mp3" />
+      <file href="mobile/5zktaxEM10o_P_170_357_536_400.png" />
+      <file href="mobile/5zx1313Q5B9.png" />
+      <file href="mobile/5xGAy9Vj5R0.png" />
+      <file href="mobile/5nXfZx8Sqmo.png" />
+      <file href="mobile/6MTnhqYF5Ce.png" />
+      <file href="mobile/5s5P1PQP1Nk_P_81_20_805_645.png" />
+      <file href="mobile/5yz1h2dCRyP.png" />
+      <file href="mobile/5VfiiEsOD9L.png" />
+      <file href="story_content/5bSYpYTLzDs_44100_48_0.mp3" />
+      <file href="mobile/5ZFgfgc1FxW.png" />
+      <file href="story_content/6gLNVoEPtlJ_44100_48_0.mp3" />
+      <file href="mobile/68zFQZC8rQN_P_27_58_308_373.png" />
+      <file href="mobile/6rA1JNNtHup_P_0_5_689_635.png" />
+      <file href="mobile/5uytARy7gI0.png" />
+      <file href="story_content/5aF1sTbefDu_44100_48_0.mp3" />
+      <file href="mobile/6hAAtlbfCcY_P_0_115_234_245.png" />
+      <file href="mobile/68AebGPLG0Q.png" />
+      <file href="story_content/64vDT36dzCJ_44100_48_0.mp3" />
+      <file href="mobile/5upp1tOQj6k_P_100_1467_425_337.png" />
+      <file href="mobile/6XEz1QQ1mqf_P_89_133_332_275.png" />
+      <file href="mobile/5rBzxp2CWko.png" />
+      <file href="mobile/6MFSjIiwGLn_P_129_105_304_302.png" />
+      <file href="mobile/6lJdkBJONbQ_P_85_75_1967_1877.png" />
+      <file href="story_content/5VFDjdfYlF9_44100_48_0.mp3" />
+      <file href="mobile/63JYqZlp7Yu.png" />
+      <file href="mobile/6SvwwU3YAp8.png" />
+      <file href="story_content/5cQwPeNocwk_44100_48_0.mp3" />
+      <file href="story_content/6WO61ciNqLd_44100_48_0.mp3" />
+      <file href="mobile/6cMgNxCCHid_P_127_234_540_324.png" />
+      <file href="mobile/6oSUZMx4S01.png" />
+      <file href="story_content/5somtWeqSul_44100_48_0.mp3" />
+      <file href="mobile/6ZhvjWoObY8.png" />
+      <file href="story_content/6FpqgADe0Pv_44100_48_0.mp3" />
+      <file href="mobile/6f5yggVOWf6_P_762_265_552_481.png" />
+      <file href="mobile/65mCc41EwKR.png" />
+      <file href="mobile/6k7IaPoOa1H.png" />
+      <file href="mobile/6029FurQRyg.png" />
+      <file href="mobile/6LglKWmTmwU.png" />
+      <file href="mobile/6klO14jU3o1.png" />
+      <file href="mobile/62cL1pvniOu.png" />
+      <file href="mobile/5maTxtQAVhb_P_9_0_677_273.png" />
+      <file href="mobile/5uonHP0MshF.png" />
+      <file href="mobile/5rPQPoZXwZJ.png" />
+      <file href="mobile/6eQeHn01rGl_X.png" />
+      <file href="story_content/5Wsg6bpf4Wa_44100_48_0.mp3" />
+      <file href="mobile/6GtRhh9O43L.png" />
+      <file href="mobile/5V6vAzuARt0.png" />
+      <file href="story_content/6q7U3LBb4Fq_44100_48_0.mp3" />
+      <file href="story_content/6hdp4TeO8fG_44100_48_0.mp3" />
+      <file href="mobile/6ZhvjWoObY8_P_368_669_2447_1633.png" />
+      <file href="mobile/6clp3Lbmm9F_P_185_38_1314_961.png" />
+      <file href="story_content/report.html" />
+      <file href="mobile/6hKdpxg88vw.png" />
+      <file href="meta.xml" />
+      <file href="story_content/5hljXVvSHDJ.png" />
+      <file href="story_content/5vKNQEqTjVt.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Turntide-P04-05 Prewired Install Guide_v7.13 (1).pdf" />
+      <file href="story_content/external_files/Motor Isolator Install Guide v12.pdf" />
+      <file href="mobile/txt__default_6AZOPHgbDsi.png" />
+      <file href="mobile/txt__default_5waMweDSvYO.png" />
+      <file href="mobile/txt__default_5Xy2t5hMuXH.png" />
+      <file href="mobile/txt__default_688Cpo7QqAM.png" />
+      <file href="mobile/txt__default_5pDi7QtFiXj.png" />
+      <file href="mobile/txt__default_6UeU8rfqlwm.png" />
+      <file href="mobile/txt__default_5wOK6YPlbkF.png" />
+      <file href="mobile/txt__default_5viACym0XMy.png" />
+      <file href="mobile/txt__default_6rHPAUNmJuU.png" />
+      <file href="mobile/txt__default_6dYheObh6Em.png" />
+      <file href="mobile/txt__default_6bvSVuDQCCO.png" />
+      <file href="mobile/txt__default_5VYLYhzZpqy.png" />
+      <file href="mobile/txt__default_6GmSbNuU790.png" />
+      <file href="mobile/txt__default_613KSowxzce.png" />
+      <file href="mobile/txt__default_5ldNmFOnhwc.png" />
+      <file href="mobile/txt__default_5qNruIZXlar.png" />
+      <file href="mobile/txt__default_5xO5JpQy6UH.png" />
+      <file href="mobile/txt__default_6NxDdjrBBRV.png" />
+      <file href="mobile/txt__default_6RxNne0W7Q2.png" />
+      <file href="mobile/txt__default_6ijMVWEqa0i.png" />
+      <file href="mobile/txt__default_6RoQZMJK5tv.png" />
+      <file href="mobile/txt__default_5UrJapZRogy.png" />
+      <file href="mobile/txt__default_6p4qheKN9mz.png" />
+      <file href="mobile/txt__default_6YUpkDaZZlG.png" />
+      <file href="mobile/txt__default_5sbwUMJm7PC.png" />
+      <file href="mobile/txt__default_6PXDUo4wuTY.png" />
+      <file href="mobile/txt__default_6VvaBQUtxC0.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fXBBeStMhK.js" />
+      <file href="html5/data/js/5pXjsMdKpF7.js" />
+      <file href="html5/data/js/5UxGoCmgze1.js" />
+      <file href="html5/data/js/5VeE6itOIAZ.js" />
+      <file href="html5/data/js/62NjZRbT2sX.js" />
+      <file href="html5/data/js/6607rVjKVun.js" />
+      <file href="html5/data/js/6BgXliSUt3y.js" />
+      <file href="html5/data/js/6DAeQHrVImF.js" />
+      <file href="html5/data/js/6DajDfR6kPx.js" />
+      <file href="html5/data/js/6f8PxFrEUUG.js" />
+      <file href="html5/data/js/6HRmfQub9VZ.js" />
+      <file href="html5/data/js/6kteFyvcNbF.js" />
+      <file href="html5/data/js/6PdYmbkpBRW.js" />
+      <file href="html5/data/js/6WANHMlM1cF.js" />
+      <file href="html5/data/js/6XrlSdzrLIR.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
